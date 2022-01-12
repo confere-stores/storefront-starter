@@ -16,7 +16,7 @@ When creating your new site on Netlify, we recommend choosing **`dist` as _branc
 
 #### The easier way
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?stack=cms&repository=https://github.com/ecomplus/storefront-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?stack=cms&repository=https://github.com/confere-stores/storefront-starter)
 
 #### The better way
 
